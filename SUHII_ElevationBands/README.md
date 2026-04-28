@@ -3,13 +3,13 @@
 ## Overview
 This MATLAB script computes the Surface Urban Heat Island Intensity (SUHII) stratified by elevation bands using point based Land Surface Temperature (LST) data.
 
-The implementation follows the methodology described in XXXXXXXXX (reference to the associated paper).
-
-For each elevation band, a rural reference LST is first computed using non urban points selected according to their land use/land cover class (CORINE Land Cover nomenclature) and their distance from the urban fabric.
+For each elevation band, a rural reference LST is first computed using non-urban points selected according to their land use/land cover class (CORINE Land Cover nomenclature) and their distance from the urban fabric.
 
 SUHII is then computed as the difference between the LST value of each individual point and the mean rural reference LST of the corresponding elevation band.
 
 For interpretative purposes, the script also reports the mean SUHII of urban points for each elevation band.
+
+Example input data required to run the script are available at this [LINK](https://doi.org/10.5281/zenodo.19821093).
 
 ---
 
