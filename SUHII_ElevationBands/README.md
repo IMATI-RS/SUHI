@@ -9,7 +9,7 @@ SUHII is then computed as the difference between the LST value of each individua
 
 For interpretative purposes, the script also reports the mean SUHII of urban points for each elevation band.
 
-Example input data required to run the script are available at this [LINK](https://doi.org/10.5281/zenodo.19821093).
+Example input data required to run the script are available at this [link](https://doi.org/10.5281/zenodo.19821093).
 
 ---
 
